@@ -1,7 +1,7 @@
 # Eyes Pi - A Raspberry Pi based security camera
 This project aims to develop an open source Raspberry Pi based smart security camera system. Other than simple recording of video, we aim to use image processing to automatically extract useful information from the feed. We also aim to make the platform extendable, so that other developers can add their own custom code.
 
-# Features
+### Features
 - Simple video recording
 - Video recording on movement
 - People count
@@ -9,12 +9,12 @@ This project aims to develop an open source Raspberry Pi based smart security ca
 - Automatic notifications and alerts
 - Extendable platform
 
-# Technologies used
+### Technologies used
 - Raspberry Pi and camera module
 - OpenCV
 - Web
 
-# Impact
+### Impact
 Although commercial CCTV cameras are available, they are expensive, difficult to install, and cannot be extended. The use cases for this product consists of:
 - Applications where 1-2 cameras are required
 - User has to do custom processing on feed
@@ -22,7 +22,7 @@ Although commercial CCTV cameras are available, they are expensive, difficult to
 - Applications where automatic data logging is required
 - Hobbyists looking for a quick solution
  
-# Milestones
+### Milestones
 - [ ] Install basic software for the Raspberry Pi
 - [ ] Connect the camera module and try to get the video feed
 - [ ] Basic video and data logging
@@ -30,16 +30,15 @@ Although commercial CCTV cameras are available, they are expensive, difficult to
 - [ ] Send the feed and associated log data to an external device over the Internet
 - [ ] Make an application to view the data remotely
 
-# Installing
-1. Get your Raspberry Pi.
-2. Install the relevant contents.
-3. Setup your server.
-4. Link.
+### Communication
+Please join our Gitter and Slack channel to discuss questions regarding the project:
+- Gitter: https://gitter.im/dsciitpatna/Eyes-Pi
+- Slack: https://bit.ly/2S1adeD
 
-# Contributing
+### Contributing
 - Follow the Slack and Gitter channel to stay updated
 - Raise an issue before making a pull request
 - Make pull requests to the development branch
 
-# License
+### License
 This work is licensed under the MIT License.
