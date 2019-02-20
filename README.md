@@ -1,4 +1,4 @@
-# Pi Spy - A Raspberry Pi based security camera
+# Eyes Pi - A Raspberry Pi based security camera
 This project aims to develop an open source Raspberry Pi based smart security camera system. Other than simple recording of video, we aim to use image processing to automatically extract useful information from the feed. We also aim to make the platform extendable, so that other developers can add their own custom code.
 
 # Features
